@@ -15,7 +15,7 @@ $makanan = query( "SELECT * FROM datamakanan" );
     <title>Daftar Makanan</title>
 </head>
 <body>
-    <h1>DAFTAR MAKANAN</h1>
+    <h1>DAFTAR makanan</h1>
 
     <a href ="tambahmakanan.php" class="btn btn-dark btn-md">Tambah Data Makanan</a>
     <br></br>
